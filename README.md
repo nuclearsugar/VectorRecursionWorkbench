@@ -54,7 +54,7 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 - **Canvas Width/Height**: Set in pixels of your monitor. Just a way to determine the aspect ratio since the SVG exports are vector in nature.  
 - **Load Background Image**: Allows you to load a background image within the preview window. This background image does not export, it’s only used as a helper for you to layout Guide Lines. It can be helpful for tracing complex patterns you want to draw. Within the Examples folder check out the ‘FaceSilhouette_001’ and ‘Hands_001’ examples.
 
-### Saving & Rendering
+### Saving & Exporting
 - **File > Save as**: Writes an JSON file which can be opened later and edited.  
 - **File > Export**: Writes an SVG of the whole canvas. This is the easiest approach for when you’re doing a single laser cut piece.  
 - **File > Export Shapes**: Writes multiple SVG’s, one SVG for each individual shape on the canvas. This option is useful if you want to laser cut each shape individually and then assemble them all together after completed. So long as you plan with the max dimensions of your laser cutter in mind, then you can precisely fill a wall of unlimited scale.
