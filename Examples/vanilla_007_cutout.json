@@ -1,0 +1,271 @@
+{
+    "canvas": [
+        0,
+        0,
+        1500,
+        600
+    ],
+    "colors": [
+        "#000000",
+        "#FFFFFF"
+    ],
+    "shapes": [
+        {
+            "clockwise": true,
+            "depth": 26,
+            "disabled": false,
+            "footer": 0.109,
+            "footer_inc": 0.027,
+            "footer_offset": 15,
+            "inc": 0.0042,
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    683.84279476,
+                    0.0
+                ],
+                [
+                    0.0,
+                    600.0
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.09
+        },
+        {
+            "clockwise": true,
+            "depth": 18,
+            "disabled": false,
+            "footer": 0.112,
+            "footer_inc": 0.035,
+            "footer_offset": 0.0,
+            "inc": 0.0032,
+            "points": [
+                [
+                    322.27031858,
+                    317.24175113
+                ],
+                [
+                    576.41921397,
+                    600.0
+                ],
+                [
+                    0.0,
+                    600.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.14
+        },
+        {
+            "clockwise": false,
+            "depth": 13,
+            "disabled": false,
+            "footer": 0.149,
+            "footer_inc": 0.038,
+            "footer_offset": 0.0,
+            "inc": 0.0,
+            "points": [
+                [
+                    322.27031858,
+                    317.24175113
+                ],
+                [
+                    499.7000764,
+                    161.56583335
+                ],
+                [
+                    475.96545457,
+                    488.23823508
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.206
+        },
+        {
+            "clockwise": true,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.157,
+            "footer_inc": 0.031,
+            "footer_offset": 6,
+            "inc": 0.0044,
+            "points": [
+                [
+                    499.7000764,
+                    161.56583335
+                ],
+                [
+                    683.84279476,
+                    0.0
+                ],
+                [
+                    890.82969432,
+                    0.0
+                ],
+                [
+                    852.01370965,
+                    320.37319165
+                ],
+                [
+                    488.93238772,
+                    309.76734034
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.226
+        },
+        {
+            "clockwise": false,
+            "depth": 27,
+            "disabled": false,
+            "footer": 0.156,
+            "footer_inc": 0.027,
+            "footer_offset": 8,
+            "inc": 0.0033,
+            "points": [
+                [
+                    488.93238772,
+                    309.76734034
+                ],
+                [
+                    852.01370965,
+                    320.37319165
+                ],
+                [
+                    818.77729258,
+                    600.0
+                ],
+                [
+                    576.41921397,
+                    600.0
+                ],
+                [
+                    475.96545457,
+                    488.23823508
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.214
+        },
+        {
+            "clockwise": true,
+            "depth": 22,
+            "disabled": false,
+            "footer": 0.118,
+            "footer_inc": 0.038,
+            "footer_offset": 7,
+            "inc": 0.0036,
+            "points": [
+                [
+                    852.01370965,
+                    320.37319165
+                ],
+                [
+                    1087.8409939,
+                    327.26186634
+                ],
+                [
+                    1100.43668122,
+                    600.0
+                ],
+                [
+                    818.77729258,
+                    600.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.168
+        },
+        {
+            "clockwise": false,
+            "depth": 28,
+            "disabled": false,
+            "footer": 0.13,
+            "footer_inc": 0.033,
+            "footer_offset": 12,
+            "inc": 0.002,
+            "points": [
+                [
+                    1087.8409939,
+                    327.26186634
+                ],
+                [
+                    1500.0,
+                    339.30131004
+                ],
+                [
+                    1500.0,
+                    600.0
+                ],
+                [
+                    1100.43668122,
+                    600.0
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.156
+        },
+        {
+            "clockwise": false,
+            "depth": 26,
+            "disabled": false,
+            "footer": 0.116,
+            "footer_inc": 0.029,
+            "footer_offset": 8,
+            "inc": 0.0028,
+            "points": [
+                [
+                    890.82969432,
+                    0.0
+                ],
+                [
+                    1156.76855895,
+                    0.0
+                ],
+                [
+                    1260.05476213,
+                    332.29234714
+                ],
+                [
+                    852.01370965,
+                    320.37319165
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.171
+        },
+        {
+            "clockwise": true,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.111,
+            "footer_inc": 0.029,
+            "footer_offset": 6,
+            "inc": 0.0031,
+            "points": [
+                [
+                    1156.76855895,
+                    0.0
+                ],
+                [
+                    1500.0,
+                    0.0
+                ],
+                [
+                    1500.0,
+                    339.30131004
+                ],
+                [
+                    1260.05476213,
+                    332.29234714
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.159
+        }
+    ]
+}

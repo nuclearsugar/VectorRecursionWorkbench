@@ -1,0 +1,296 @@
+{
+    "canvas": [
+        0,
+        0,
+        1000,
+        1000
+    ],
+    "colors": [
+        "#000000",
+        "#FFFFFF"
+    ],
+    "shapes": [
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": true,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0,
+            "points": [
+                [
+                    720.0538358,
+                    0.0
+                ],
+                [
+                    1000.0,
+                    0.0
+                ],
+                [
+                    1000.0,
+                    506.05652759
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.092
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": true,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0,
+            "points": [
+                [
+                    1000.0,
+                    506.05652759
+                ],
+                [
+                    1000.0,
+                    1000.0
+                ],
+                [
+                    745.62584118,
+                    1000.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.092
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": true,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0,
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    258.41184388,
+                    0.0
+                ],
+                [
+                    0.0,
+                    502.01884253
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.092
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": true,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0,
+            "points": [
+                [
+                    0.0,
+                    502.01884253
+                ],
+                [
+                    261.10363392,
+                    1000.0
+                ],
+                [
+                    0.0,
+                    1000.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.092
+        },
+        {
+            "clockwise": false,
+            "depth": 32,
+            "disabled": false,
+            "footer": 0.108,
+            "footer_inc": 0.006,
+            "footer_offset": 6,
+            "inc": 0.0048,
+            "points": [
+                [
+                    258.41184388,
+                    0.0
+                ],
+                [
+                    720.0538358,
+                    0.0
+                ],
+                [
+                    473.57895463,
+                    370.24674075
+                ],
+                [
+                    0.0,
+                    502.01884253
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.092
+        },
+        {
+            "clockwise": true,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.075,
+            "footer_inc": 0.01,
+            "footer_offset": 10,
+            "inc": 0.0048,
+            "points": [
+                [
+                    0.0,
+                    502.01884253
+                ],
+                [
+                    473.57895463,
+                    370.24674075
+                ],
+                [
+                    1000.0,
+                    506.05652759
+                ],
+                [
+                    745.62584118,
+                    1000.0
+                ],
+                [
+                    261.10363392,
+                    1000.0
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.092
+        },
+        {
+            "clockwise": true,
+            "depth": 15,
+            "disabled": false,
+            "footer": 0.192,
+            "footer_inc": 0.032,
+            "footer_offset": 7,
+            "inc": 0.0048,
+            "points": [
+                [
+                    720.0538358,
+                    0.0
+                ],
+                [
+                    846.50265563,
+                    228.58055893
+                ],
+                [
+                    730.67127462,
+                    270.68914477
+                ],
+                [
+                    605.65355118,
+                    171.84847528
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.188
+        },
+        {
+            "clockwise": true,
+            "depth": 22,
+            "disabled": false,
+            "footer": 0.13,
+            "footer_inc": 0.028,
+            "footer_offset": 2,
+            "inc": 0.0048,
+            "points": [
+                [
+                    634.28596943,
+                    317.15747004
+                ],
+                [
+                    730.67127462,
+                    270.68914477
+                ],
+                [
+                    846.50265563,
+                    228.58055893
+                ],
+                [
+                    1000.0,
+                    506.05652759
+                ],
+                [
+                    629.17000187,
+                    410.38720843
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.211
+        },
+        {
+            "clockwise": false,
+            "depth": 9,
+            "disabled": false,
+            "footer": 0.151,
+            "footer_inc": 0.024,
+            "footer_offset": 3,
+            "inc": 0.0048,
+            "points": [
+                [
+                    542.15471165,
+                    267.23441588
+                ],
+                [
+                    634.28596943,
+                    317.15747004
+                ],
+                [
+                    629.17000187,
+                    410.38720843
+                ],
+                [
+                    473.57895463,
+                    370.24674075
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.196
+        },
+        {
+            "clockwise": false,
+            "depth": 16,
+            "disabled": false,
+            "footer": 0.223,
+            "footer_inc": 0.03,
+            "footer_offset": 3,
+            "inc": 0.0048,
+            "points": [
+                [
+                    605.65355118,
+                    171.84847528
+                ],
+                [
+                    730.67127462,
+                    270.68914477
+                ],
+                [
+                    634.28596943,
+                    317.15747004
+                ],
+                [
+                    542.15471165,
+                    267.23441588
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.246
+        }
+    ]
+}

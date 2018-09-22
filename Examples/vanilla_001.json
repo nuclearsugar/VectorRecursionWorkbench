@@ -1,0 +1,141 @@
+{
+    "canvas": [
+        0,
+        0,
+        843,
+        398
+    ],
+    "colors": [
+        "#FFFFFF",
+        "#000000"
+    ],
+    "footer_buffer": 0.0,
+    "shapes": [
+        {
+            "clockwise": false,
+            "depth": 23,
+            "disabled": false,
+            "inc": 0.02,
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    285.0,
+                    0.0
+                ],
+                [
+                    285.0,
+                    398.0
+                ],
+                [
+                    0.0,
+                    398.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.075
+        },
+        {
+            "clockwise": false,
+            "depth": 17,
+            "disabled": false,
+            "inc": 0.0259,
+            "points": [
+                [
+                    285.0,
+                    0.0
+                ],
+                [
+                    498.0,
+                    0.0
+                ],
+                [
+                    372.0,
+                    237.0
+                ],
+                [
+                    285.0,
+                    161.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.148
+        },
+        {
+            "clockwise": true,
+            "depth": 10,
+            "disabled": false,
+            "inc": 0.0451,
+            "points": [
+                [
+                    285.0,
+                    161.0
+                ],
+                [
+                    372.0,
+                    237.0
+                ],
+                [
+                    285.0,
+                    398.0
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.166
+        },
+        {
+            "clockwise": false,
+            "depth": 13,
+            "disabled": false,
+            "inc": 0.03,
+            "points": [
+                [
+                    372.0,
+                    237.0
+                ],
+                [
+                    554.0,
+                    398.0
+                ],
+                [
+                    285.0,
+                    398.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.155
+        },
+        {
+            "clockwise": true,
+            "depth": 29,
+            "disabled": false,
+            "inc": 0.0298,
+            "points": [
+                [
+                    498.0,
+                    0.0
+                ],
+                [
+                    843.0,
+                    0.0
+                ],
+                [
+                    843.0,
+                    398.0
+                ],
+                [
+                    554.0,
+                    398.0
+                ],
+                [
+                    372.0,
+                    237.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.063
+        }
+    ]
+}

@@ -1,0 +1,554 @@
+{
+    "canvas": [
+        0,
+        0,
+        900,
+        240
+    ],
+    "colors": [
+        "#FFFFFF",
+        "#000000"
+    ],
+    "shapes": [
+        {
+            "clockwise": false,
+            "depth": 38,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0172,
+            "points": [
+                [
+                    0.0,
+                    81.65975103734439
+                ],
+                [
+                    109.94842923905394,
+                    184.63939129246518
+                ],
+                [
+                    86.97068403908794,
+                    240.0
+                ],
+                [
+                    0.0,
+                    240.0
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.095
+        },
+        {
+            "clockwise": true,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0177,
+            "points": [
+                [
+                    109.94842923905394,
+                    184.63939129246518
+                ],
+                [
+                    169.05537459283389,
+                    240.0
+                ],
+                [
+                    86.97068403908794,
+                    240.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.2
+        },
+        {
+            "clockwise": true,
+            "depth": 61,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0177,
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    105.53745928338762,
+                    0.0
+                ],
+                [
+                    107.13159739563834,
+                    66.72924405299615
+                ],
+                [
+                    42.93104387630887,
+                    121.8697247928288
+                ],
+                [
+                    0.0,
+                    81.65975103734439
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.2
+        },
+        {
+            "clockwise": false,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0178,
+            "points": [
+                [
+                    42.93104387630887,
+                    121.8697247928288
+                ],
+                [
+                    107.13159739563834,
+                    66.72924405299615
+                ],
+                [
+                    109.94842923905395,
+                    184.6393912924652
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.2
+        },
+        {
+            "clockwise": false,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0175,
+            "points": [
+                [
+                    105.53745928338762,
+                    0.0
+                ],
+                [
+                    181.75895765472313,
+                    0.0
+                ],
+                [
+                    107.13159739563834,
+                    66.72924405299617
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.2
+        },
+        {
+            "clockwise": true,
+            "depth": 59,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0172,
+            "points": [
+                [
+                    107.13159739563834,
+                    66.72924405299617
+                ],
+                [
+                    181.75895765472313,
+                    0.0
+                ],
+                [
+                    280.45602605863195,
+                    0.0
+                ],
+                [
+                    109.94842923905395,
+                    184.6393912924652
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.095
+        },
+        {
+            "clockwise": false,
+            "depth": 39,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0172,
+            "points": [
+                [
+                    280.45602605863195,
+                    0.0
+                ],
+                [
+                    278.5016286644951,
+                    240.0
+                ],
+                [
+                    169.05537459283389,
+                    240.0
+                ],
+                [
+                    109.94842923905395,
+                    184.6393912924652
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.095
+        },
+        {
+            "clockwise": true,
+            "depth": 44,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0179,
+            "points": [
+                [
+                    280.45602605863195,
+                    0.0
+                ],
+                [
+                    369.3811074918567,
+                    0.0
+                ],
+                [
+                    440.94558322115455,
+                    77.08875104875233
+                ],
+                [
+                    278.5016286644951,
+                    240.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.095
+        },
+        {
+            "clockwise": false,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0162,
+            "points": [
+                [
+                    440.94558322115455,
+                    77.08875104875233
+                ],
+                [
+                    592.1824104234529,
+                    240.0
+                ],
+                [
+                    278.5016286644951,
+                    240.0
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.095
+        },
+        {
+            "clockwise": false,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0171,
+            "points": [
+                [
+                    369.3811074918567,
+                    0.0
+                ],
+                [
+                    488.59934853420197,
+                    0.0
+                ],
+                [
+                    487.60935318123444,
+                    46.797609791110666
+                ],
+                [
+                    440.94558322115455,
+                    77.08875104875234
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.2
+        },
+        {
+            "clockwise": true,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0182,
+            "points": [
+                [
+                    440.94558322115455,
+                    77.08875104875234
+                ],
+                [
+                    487.60935318123444,
+                    46.797609791110666
+                ],
+                [
+                    485.94315229699475,
+                    125.55981668483294
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.2
+        },
+        {
+            "clockwise": true,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.018,
+            "points": [
+                [
+                    485.94315229699475,
+                    125.55981668483294
+                ],
+                [
+                    533.4823925885042,
+                    75.05454359930445
+                ],
+                [
+                    592.7054769736095,
+                    111.53485528150334
+                ],
+                [
+                    592.1824104234529,
+                    240.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.2
+        },
+        {
+            "clockwise": false,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0175,
+            "points": [
+                [
+                    487.60935318123444,
+                    46.79760979111066
+                ],
+                [
+                    533.4823925885042,
+                    75.05454359930445
+                ],
+                [
+                    485.94315229699475,
+                    125.55981668483294
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.2
+        },
+        {
+            "clockwise": true,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0168,
+            "points": [
+                [
+                    488.59934853420197,
+                    0.0
+                ],
+                [
+                    593.1596091205213,
+                    0.0
+                ],
+                [
+                    533.4823925885042,
+                    75.05454359930445
+                ],
+                [
+                    487.60935318123444,
+                    46.79760979111066
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.2
+        },
+        {
+            "clockwise": true,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0177,
+            "points": [
+                [
+                    593.1596091205213,
+                    0.0
+                ],
+                [
+                    592.7054769736095,
+                    111.53485528150334
+                ],
+                [
+                    533.4823925885042,
+                    75.05454359930445
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.2
+        },
+        {
+            "clockwise": false,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0171,
+            "points": [
+                [
+                    593.1596091205213,
+                    0.0
+                ],
+                [
+                    728.0130293159609,
+                    0.0
+                ],
+                [
+                    592.7054769736095,
+                    111.53485528150334
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.095
+        },
+        {
+            "clockwise": false,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0172,
+            "points": [
+                [
+                    592.7054769736095,
+                    111.53485528150334
+                ],
+                [
+                    778.827361563518,
+                    240.0
+                ],
+                [
+                    592.1824104234529,
+                    240.0
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.095
+        },
+        {
+            "clockwise": false,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0163,
+            "points": [
+                [
+                    900.0,
+                    0.0
+                ],
+                [
+                    900.0,
+                    240.0
+                ],
+                [
+                    778.827361563518,
+                    240.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.095
+        },
+        {
+            "clockwise": true,
+            "depth": 39,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0176,
+            "points": [
+                [
+                    592.7054769736095,
+                    111.53485528150334
+                ],
+                [
+                    728.0130293159609,
+                    0.0
+                ],
+                [
+                    847.87519645511,
+                    103.24073992439509
+                ],
+                [
+                    778.827361563518,
+                    240.0
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.095
+        },
+        {
+            "clockwise": true,
+            "depth": 25,
+            "disabled": false,
+            "footer": 0.0,
+            "footer_inc": 0.0,
+            "footer_offset": 0.0,
+            "inc": 0.0171,
+            "points": [
+                [
+                    728.0130293159609,
+                    0.0
+                ],
+                [
+                    900.0,
+                    0.0
+                ],
+                [
+                    847.87519645511,
+                    103.24073992439509
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.095
+        }
+    ]
+}

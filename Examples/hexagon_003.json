@@ -1,0 +1,257 @@
+{
+    "canvas": [
+        0,
+        0,
+        1000,
+        1000
+    ],
+    "colors": [
+        "#000000",
+        "#FFFFFF"
+    ],
+    "footer_buffer": 0.0,
+    "shapes": [
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": true,
+            "inc": 0.0,
+            "points": [
+                [
+                    720.0538358,
+                    0.0
+                ],
+                [
+                    1000.0,
+                    0.0
+                ],
+                [
+                    1000.0,
+                    506.05652759
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.145
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": true,
+            "inc": 0.0,
+            "points": [
+                [
+                    1000.0,
+                    506.05652759
+                ],
+                [
+                    1000.0,
+                    1000.0
+                ],
+                [
+                    745.62584118,
+                    1000.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.145
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": true,
+            "inc": 0.0,
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    258.41184388,
+                    0.0
+                ],
+                [
+                    0.0,
+                    502.01884253
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.145
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": true,
+            "inc": 0.0,
+            "points": [
+                [
+                    0.0,
+                    502.01884253
+                ],
+                [
+                    261.10363392,
+                    1000.0
+                ],
+                [
+                    0.0,
+                    1000.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.145
+        },
+        {
+            "clockwise": false,
+            "depth": 50,
+            "disabled": false,
+            "inc": 0.0048,
+            "points": [
+                [
+                    258.41184388,
+                    0.0
+                ],
+                [
+                    261.10363392,
+                    1000.0
+                ],
+                [
+                    0.0,
+                    502.01884253
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.145
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": false,
+            "inc": 0.0048,
+            "points": [
+                [
+                    258.41184388,
+                    0.0
+                ],
+                [
+                    720.0538358,
+                    0.0
+                ],
+                [
+                    261.10363392,
+                    1000.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.145
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": false,
+            "inc": 0.0048,
+            "points": [
+                [
+                    720.0538358,
+                    0.0
+                ],
+                [
+                    1000.0,
+                    506.05652759
+                ],
+                [
+                    491.44399192,
+                    498.11470381
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.145
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": false,
+            "inc": 0.0048,
+            "points": [
+                [
+                    491.44399192,
+                    498.11470381
+                ],
+                [
+                    745.62584118,
+                    1000.0
+                ],
+                [
+                    261.10363392,
+                    1000.0
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.145
+        },
+        {
+            "clockwise": false,
+            "depth": 50,
+            "disabled": false,
+            "inc": 0.0048,
+            "points": [
+                [
+                    491.44399192,
+                    498.11470381
+                ],
+                [
+                    1000.0,
+                    506.05652759
+                ],
+                [
+                    601.51636299,
+                    715.45400131
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.145
+        },
+        {
+            "clockwise": false,
+            "depth": 50,
+            "disabled": false,
+            "inc": 0.0048,
+            "points": [
+                [
+                    601.51636299,
+                    715.45400131
+                ],
+                [
+                    867.53317527,
+                    763.28046767
+                ],
+                [
+                    745.62584118,
+                    1000.0
+                ]
+            ],
+            "reverse_colors": false,
+            "step": 0.145
+        },
+        {
+            "clockwise": true,
+            "depth": 50,
+            "disabled": false,
+            "inc": 0.0048,
+            "points": [
+                [
+                    1000.0,
+                    506.05652759
+                ],
+                [
+                    867.53317527,
+                    763.28046767
+                ],
+                [
+                    601.51636299,
+                    715.45400131
+                ]
+            ],
+            "reverse_colors": true,
+            "step": 0.145
+        }
+    ]
+}
