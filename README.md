@@ -5,7 +5,7 @@ Programmed by [Nathan Williams](https://github.com/nathanlws) and designed by Ja
 
 
 ## Archived
-This software is no longer being maintained, but you are welcome to fork it.
+This software is no longer being maintained and issues will not be fixed, but you are welcome to fork it.
 
 
 ## Dependencies
