@@ -10,7 +10,7 @@ This is a tool for laying out and generating recursively nested polygons that ca
 
 
 ## Archived
-This software is no longer being maintained and issues will not be fixed, but you are welcome to fork it.
+This software is no longer being maintained and issues will not be fixed. But you're welcome to fork this project.
 
 
 ## Dependencies
