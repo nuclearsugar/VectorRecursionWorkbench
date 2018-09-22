@@ -77,6 +77,9 @@ I've long wanted to laser cut these patterns into wood and make giant latticed w
 ![History2](Examples/handcut_mimic_001_rasterized.jpg)
 *A similar recursion pattern can been mimicked using this software*
 
+![History3](Examples/handcut_mimic_001d_rasterized.jpg)
+*Then by tweaking the shape Footer, Buffer, & Offset attributes, the piece can optimized for laser cutting*
+
 
 ## License
 The MIT License (MIT)  
@@ -98,5 +101,3 @@ It is free software and may be redistributed under the terms specified in the LI
 ![Gallery6](Examples/vanilla_007_cutout_rasterized.jpg)
 
 ![Gallery7](Examples/hexagon_003b_rasterized.jpg)
-
-![Gallery8](Examples/handcut_mimic_001b_rasterized.jpg)
