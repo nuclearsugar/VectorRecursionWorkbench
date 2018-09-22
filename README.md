@@ -16,7 +16,7 @@ This software is no longer being maintained and issues will not be fixed, but yo
 
 ## Usage
 Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:  
-```$ python VRW-gui.py```
+```python VRW-gui.py```
 
 
 ## Preview Window
