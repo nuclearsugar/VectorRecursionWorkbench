@@ -3,6 +3,10 @@ This is a tool for laying out and generating recursively nested polygons that ca
 
 Programmed by [Nathan Williams](https://github.com/nathanlws) and designed by Jason Fletcher.
 
+![screenshot1](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Archive/Vector-Recursion-Workbench_screenshot1.JPG)
+
+![screenshot2](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Archive/Vector-Recursion-Workbench_screenshot2.JPG)
+
 
 ## Archived
 This software is no longer being maintained and issues will not be fixed, but you are welcome to fork it.
@@ -70,3 +74,17 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 The MIT License (MIT)  
 Copyright (c) 2014-2016 Nathan Williams, Jason Fletcher  
 It is free software and may be redistributed under the terms specified in the LICENSE file.
+
+
+## Renders Gallery
+![gallery1](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/hexagon_001_rasterized.jpg)
+
+![gallery2](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/hexagon_001_cutout_rasterized.jpg)
+
+![gallery3](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/vanilla_007_rasterized.jpg)
+
+![gallery4](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/vanilla_007_cutout_rasterized.jpg)
+
+![gallery5](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/hexagon_003b_rasterized.jpg)
+
+![gallery6](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/handcut_mimic_001b_rasterized.jpg)
