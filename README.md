@@ -28,8 +28,8 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 ## Documentation
 ### Preview Window
 - **Draw Guide Line**: Allows you to draw a guide line onto the canvas. (hotkey is ‘d’.) To cancel drawing a guide line hit ‘ESC’. If you need to slice a specific shape, then first click to select that shape and then draw the guide line within it.  
-- **Delete Guide Lines**: Allows you to delete a specific guide line by clicking on it. (hotkey is ‘x’.) Useful mainly for creating shapes such as a pentagon. Beware: deleting a line is risky and may break your layout, so be sure to save prior.  
-- Undo (cmd-z) and Redo (cmd-shft-z) are functional. Beware: undo-ing a guide line is risky and may break your layout, so be sure to save prior.  
+- **Delete Guide Lines**: Allows you to delete a specific guide line by clicking on it. (hotkey is ‘x’.) Useful mainly for creating shapes such as a pentagon. *Beware: deleting a line is risky and may break your layout, so be sure to save prior.*  
+- Undo (cmd-z) and Redo (cmd-shft-z) are functional. *Beware: undo-ing a guide line is risky and may break your layout, so be sure to save prior.*  
 - **Snapping**: When drawing a guide line, the cursor will snap to the nearest corner when within a certain proximity.  
 - **Hide Guide Lines**: Makes the guide lines invisible within the preview area so that you can see the recursion as it will be exported.  
 - **Hide Shape #’s**: Makes the shape #’s invisible within the preview area. But you can still select a shape.  
