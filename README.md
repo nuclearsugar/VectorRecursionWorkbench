@@ -13,9 +13,9 @@ This software is no longer being maintained and issues will not be fixed, but yo
 
 
 ## Dependencies
-- Python 2.7.8  
-- wxPython 3.0  
-- PyOpenGL 3.1.1a1  
+Python 2.7.8  
+wxPython 3.0  
+PyOpenGL 3.1.1a1  
 
 
 ## Usage
@@ -64,9 +64,11 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 -----
 
 ## History
-- This software was programmed by [Nathan Williams](https://github.com/nathanlws) and designed by Jason Fletcher.  
-- I was first introduced to this technique through drawing by hand. Over the years I experimented with different approaches and started using an exacto blade to cutout the patterns into paper. I loved the resulting artworks but the effort required was enormous and difficult on my hands. So for many years I dreamed of creating a software which would automate the process and make laser cutting possible. While studying in college, Alex Horn helped me to create an early version of the idea first in Pure Data and then Adobe Flash. Then many years later I met Nathan Williams and randomly shared my idea over a beer and a collaboration bloomed. This software is the result.  
-- Check out the Archive folder to see early sketches of this software.
+This software was programmed by [Nathan Williams](https://github.com/nathanlws) and designed by Jason Fletcher.
+
+I was first introduced to this technique through drawing by hand. Over the years I experimented with different approaches and started using an exacto blade to cutout the patterns into paper. I loved the resulting artworks but the effort required was enormous and difficult on my hands. So for many years I dreamed of creating a software which would automate the process and make laser cutting possible. While studying in college, Alex Horn helped me to create an early version of the idea first in Pure Data and then Adobe Flash. Then many years later I met Nathan Williams and randomly shared my idea over a beer and a collaboration bloomed. This software is the result.
+
+Check out the Archive folder to see early sketches of this software.
 
 
 ## License
