@@ -75,7 +75,7 @@ Copyright (c) 2014-2016 Nathan Williams, Jason Fletcher
 It is free software and may be redistributed under the terms specified in the LICENSE file.
 
 
-## Example Renders Gallery
+## Example Renders (Rasterized)
 ![gallery1](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/GoldenRatio_001_rasterized.jpg)
 
 ![gallery2](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/GoldenRatio_002_rasterized.jpg)
