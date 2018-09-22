@@ -13,9 +13,9 @@ This software is no longer being maintained and issues will not be fixed, but yo
 
 
 ## Dependencies
-- Python 2.7.8  
-- wxPython 3.0  
-- PyOpenGL 3.1.1a1  
+– Python 2.7.8  
+– wxPython 3.0  
+– PyOpenGL 3.1.1a1  
 
 
 ## Usage
@@ -58,7 +58,7 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 - **File > Export Shapes**: Writes multiple SVG’s, one SVG for each individual shape on the canvas. This option is useful if you want to laser cut each shape individually and then assemble them all together after completed. So long as you plan with the max dimensions of your laser cutter in mind, then you can precisely fill a wall of unlimited scale.
 
 ### Post-Production
-- If you need to alter the exported SVG or combine multiple SVG’s, [Inkscape](https://inkscape.org/) is free and highly recommended.
+If you need to alter the exported SVG or combine multiple SVG’s, [Inkscape](https://inkscape.org/) is free and highly recommended.
 
 
 ## History
