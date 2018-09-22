@@ -6,7 +6,7 @@ This is a tool for laying out and generating recursively nested polygons that ca
 *Screenshot: Previewing the guide lines*
 
 ![Screenshot2](Archive/Vector-Recursion-Workbench_screenshot2.JPG)
-*Screenshot: Previewing the guide lines and recursion*
+*Screenshot: Previewing the guide lines and recursion concurrently*
 
 
 ## Archived
@@ -33,7 +33,7 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 - **Snapping**: When drawing a guide line, the cursor will snap to the nearest corner when within a certain proximity.  
 - **Hide Guide Lines**: Makes the guide lines invisible within the preview area so that you can see the recursion as it will be exported.  
 - **Hide Shape #’s**: Makes the shape #’s invisible within the preview area. But you can still select a shape.  
-- **Preview**: Allows you to preview just the guide lines, or preview the guide lines and recursion in tandem.  
+- **Preview**: Allows you to preview just the guide lines, or preview the guide lines and recursion concurrently.  
 - **Aspect Ratio**: Allows you to fit the recursion to the canvas, or stretch the recursion to the canvas. When exporting, fit will always be used. But stretch is useful if you’re doing projection mapping and want to layout in context.
 
 ### Shape Attributes
