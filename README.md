@@ -2,10 +2,10 @@
 This is a tool for laying out and generating recursively nested polygons that can be exported as an SVG. Designed with laser cutting in mind.
 
 
-![screenshot1](Archive/Vector-Recursion-Workbench_screenshot1.JPG)
+![Screenshot1](Archive/Vector-Recursion-Workbench_screenshot1.JPG)
 *Screenshot: Previewing the guide lines*
 
-![screenshot2](Archive/Vector-Recursion-Workbench_screenshot2.JPG)
+![Screenshot2](Archive/Vector-Recursion-Workbench_screenshot2.JPG)
 *Screenshot: Previewing the guide lines and recursion*
 
 
@@ -75,7 +75,7 @@ I've long wanted to laser cut these patterns into wood and make giant latticed w
 *Three sheets of red paper which have been hand cut to create a lattice art piece.*
 
 ![History2](Examples/handcut_mimic_001_rasterized.jpg)
-*The same recursion pattern has been mimicked within this software*
+*A similar recursion pattern can been mimicked using this software*
 
 
 ## License
@@ -85,18 +85,18 @@ It is free software and may be redistributed under the terms specified in the LI
 
 
 ## Example Renders (Rasterized)
-![gallery1](Examples/GoldenRatio_001_rasterized.jpg)
+![Gallery1](Examples/GoldenRatio_001_rasterized.jpg)
 
-![gallery2](Examples/GoldenRatio_002_rasterized.jpg)
+![Gallery2](Examples/GoldenRatio_002_rasterized.jpg)
 
-![gallery3](Examples/hexagon_001_rasterized.jpg)
+![Gallery3](Examples/hexagon_001_rasterized.jpg)
 
-![gallery4](Examples/hexagon_001_cutout_rasterized.jpg)
+![Gallery4](Examples/hexagon_001_cutout_rasterized.jpg)
 
-![gallery5](Examples/vanilla_007_rasterized.jpg)
+![Gallery5](Examples/vanilla_007_rasterized.jpg)
 
-![gallery6](Examples/vanilla_007_cutout_rasterized.jpg)
+![Gallery6](Examples/vanilla_007_cutout_rasterized.jpg)
 
-![gallery7](Examples/hexagon_003b_rasterized.jpg)
+![Gallery7](Examples/hexagon_003b_rasterized.jpg)
 
-![gallery8](Examples/handcut_mimic_001b_rasterized.jpg)
+![Gallery8](Examples/handcut_mimic_001b_rasterized.jpg)
