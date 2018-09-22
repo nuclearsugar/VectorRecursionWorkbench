@@ -13,21 +13,22 @@ This software is no longer being maintained and issues will not be fixed, but yo
 
 
 ## Dependencies
-– Python 2.7.8  
-– wxPython 3.0  
-– PyOpenGL 3.1.1a1  
+- Python 2.7.8  
+- wxPython 3.0  
+- PyOpenGL 3.1.1a1  
 
 
 ## Usage
 Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:  
 ```python VRW-gui.py```
 
+-----
 
 ## Documentation
 ### Preview Window
 - **Draw Guide Line**: Allows you to draw a guide line onto the canvas. (hotkey is ‘d’.) To cancel drawing a guide line hit ‘ESC’. If you need to slice a specific shape, then first click to select that shape and then draw the guide line within it.  
-- **Delete Guide Lines**: Allows you to select a delete a guide line. (hotkey is ‘x’.) Beware, deleting a line is risky and may break your layout, so be sure to save prior.  
-- Undo (cmd-z) and Redo (cmd-shft-z) are functional. Beware, undo-ing a guide line is risky and may break your layout, so be sure to save prior.  
+- **Delete Guide Lines**: Allows you to delete a specific guide line by clicking on it. (hotkey is ‘x’.) Useful mainly for creating shapes such as a pentagon. Beware: deleting a line is risky and may break your layout, so be sure to save prior.  
+- Undo (cmd-z) and Redo (cmd-shft-z) are functional. Beware: undo-ing a guide line is risky and may break your layout, so be sure to save prior.  
 - **Snapping**: When drawing a guide line, the cursor will snap to the nearest corner when within a certain proximity.  
 - **Hide Guide Lines**: Makes the guide lines invisible within the preview area so that you can see the recursion as it will be exported.  
 - **Hide Shape #’s**: Makes the shape #’s invisible within the preview area. But you can still select a shape.  
@@ -50,7 +51,7 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 - **Step**: Increases or decreases the spacing of the shape recursion for the whole layout. Every shape is affected equally, without resetting the individual Shape Step setting.  
 - **Colors**: Determine what two colors are used to alternate within the recursion.  
 - **Canvas Width/Height**: Set in pixels of your monitor. Just a way to determine the aspect ratio since the SVG exports are vector in nature.  
-- **Load Background Image**: Allows you loads a background image within the preview window. It does not export, it’s only used as a helper for you to layout Guide Lines. It can be helpful for tracing complex patterns you want to draw. Within the examples folder check out the ‘FaceSilhouette’ and ‘hands_001’ examples.
+- **Load Background Image**: Allows you to load a background image within the preview window. This background image does not export, it’s only used as a helper for you to layout Guide Lines. It can be helpful for tracing complex patterns you want to draw. Within the Examples folder check out the ‘FaceSilhouette_001’ and ‘Hands_001’ examples.
 
 ### Saving & Rendering
 - **File > Save as**: Writes an JSON file which can be opened later and edited.  
@@ -58,8 +59,9 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 - **File > Export Shapes**: Writes multiple SVG’s, one SVG for each individual shape on the canvas. This option is useful if you want to laser cut each shape individually and then assemble them all together after completed. So long as you plan with the max dimensions of your laser cutter in mind, then you can precisely fill a wall of unlimited scale.
 
 ### Post-Production
-If you need to alter the exported SVG or combine multiple SVG’s, [Inkscape](https://inkscape.org/) is free and highly recommended.
+- If you need to alter the exported SVG or combine multiple SVG’s, [Inkscape](https://inkscape.org/) is free and highly recommended.
 
+-----
 
 ## History
 - This software was programmed by [Nathan Williams](https://github.com/nathanlws) and designed by Jason Fletcher.  
