@@ -76,7 +76,7 @@ Copyright (c) 2014-2016 Nathan Williams, Jason Fletcher
 It is free software and may be redistributed under the terms specified in the LICENSE file.
 
 
-## Renders Gallery
+## Example Renders Gallery
 ![gallery1](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/hexagon_001_rasterized.jpg)
 
 ![gallery2](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/hexagon_001_cutout_rasterized.jpg)
