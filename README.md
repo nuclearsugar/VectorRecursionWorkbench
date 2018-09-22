@@ -87,3 +87,7 @@ It is free software and may be redistributed under the terms specified in the LI
 ![gallery5](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/hexagon_003b_rasterized.jpg)
 
 ![gallery6](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/handcut_mimic_001b_rasterized.jpg)
+
+![gallery7](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/GoldenRatio_002_rasterized.jpg)
+
+![gallery8](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/GoldenRatio_001_rasterized.jpg)
