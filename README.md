@@ -1,9 +1,11 @@
 # Vector Recursion Workbench
 This is a tool for laying out and generating recursively nested polygons that can be exported as an SVG. Designed with laser cutting in mind. Programmed by [Nathan Williams](https://github.com/nathanlws) and designed by Jason Fletcher.
 
-![screenshot1](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Archive/Vector-Recursion-Workbench_screenshot1.JPG)
+![screenshot1](Archive/Vector-Recursion-Workbench_screenshot1.JPG)
+*Screenshot: Previewing the guide lines*
 
-![screenshot2](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Archive/Vector-Recursion-Workbench_screenshot2.JPG)
+![screenshot2](Archive/Vector-Recursion-Workbench_screenshot2.JPG)
+*Screenshot: Previewing the guide lines and recursion*
 
 
 ## Archived
@@ -76,18 +78,18 @@ It is free software and may be redistributed under the terms specified in the LI
 
 
 ## Example Renders (Rasterized)
-![gallery1](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/GoldenRatio_001_rasterized.jpg)
+![gallery1](Examples/GoldenRatio_001_rasterized.jpg)
 
-![gallery2](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/GoldenRatio_002_rasterized.jpg)
+![gallery2](Examples/GoldenRatio_002_rasterized.jpg)
 
-![gallery3](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/hexagon_001_rasterized.jpg)
+![gallery3](Examples/hexagon_001_rasterized.jpg)
 
-![gallery4](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/hexagon_001_cutout_rasterized.jpg)
+![gallery4](Examples/hexagon_001_cutout_rasterized.jpg)
 
-![gallery5](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/vanilla_007_rasterized.jpg)
+![gallery5](Examples/vanilla_007_rasterized.jpg)
 
-![gallery6](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/vanilla_007_cutout_rasterized.jpg)
+![gallery6](Examples/vanilla_007_cutout_rasterized.jpg)
 
-![gallery7](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/hexagon_003b_rasterized.jpg)
+![gallery7](Examples/hexagon_003b_rasterized.jpg)
 
-![gallery8](https://raw.githubusercontent.com/nuclearsugar/VectorRecursionWorkbench/master/Examples/handcut_mimic_001b_rasterized.jpg)
+![gallery8](Examples/handcut_mimic_001b_rasterized.jpg)
