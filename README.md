@@ -78,7 +78,7 @@ I've long wanted to laser cut these patterns into wood and make giant latticed w
 *A similar recursion pattern can been mimicked using this software*
 
 ![History3](Examples/handcut_mimic_001d_rasterized.jpg)
-*Then by tweaking the shape Footer, Buffer, & Offset attributes, the piece can optimized for laser cutting*
+*Then by tweaking the shape Footer, Buffer, & Offset attributes, the piece can be optimized for laser cutting*
 
 
 ## License
