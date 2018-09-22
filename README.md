@@ -23,7 +23,8 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 ```python VRW-gui.py```
 
 
-## Preview Window
+## Documentation
+### Preview Window
 — Draw Guide Line: Allows you to draw a guide line onto the canvas. (hotkey is ‘d’.) To cancel drawing a guide line hit ‘ESC’. If you need to slice a specific shape, then first click to select that shape and then draw the guide line within it.  
 — Delete Guide Lines: Allows you to select a delete a guide line. (hotkey is ‘x’.) Beware, deleting a line is risky and may break your layout, so be sure to save prior.  
 — Undo (cmd-z) and Redo (cmd-shft-z) are functional. Beware, undo-ing a guide line is risky and may break your layout, so be sure to save prior.  
@@ -33,8 +34,7 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 — Preview: Allows you to preview just the guide lines, or preview the guide lines and recursion in tandem.  
 — Aspect Ratio: Allows you to fit the recursion to the canvas, or stretch the recursion to the canvas. When exporting, fit will always be used. But stretch is useful if you’re doing projection mapping and want to layout in context.
 
-
-## Shape Attributes
+### Shape Attributes
 — Select a shape by click on the # within the preview window.  
 — Direction: Decide whether the recursion iterates clockwise or counter-clockwise.  
 — Depth: Limits the amount of iterations.  
@@ -46,21 +46,18 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 — Buffer: Adds extra spacing around each triangle. Affects the inner iterations more heavily.  
 — Offset: Adjusts the starting point of which the Buffer begins within the outer iterations.
 
-
-## Global Attributes
+### Global Attributes
 — Step: Increases or decreases the spacing of the shape recursion for the whole layout. Every shape is affected equally, without resetting the individual Shape Step setting.  
 — Colors: Determine what two colors are used to alternate within the recursion.  
 — Canvas Width/Height: Set in pixels of your monitor. Just a way to determine the aspect ratio since the SVG exports are vector in nature.  
 — Load Background Image: Allows you loads a background image within the preview window. It does not export, it’s only used as a helper for you to layout Guide Lines. It can be helpful for tracing complex patterns you want to draw. Within the examples folder check out the ‘FaceSilhouette’ and ‘hands_001’ examples.
 
-
-## Saving & Rendering
+### Saving & Rendering
 — File > Save as: Writes an JSON file which can be opened later and edited.  
 — File > Export: Writes an SVG of the whole canvas. This is the easiest approach for when you’re doing a single laser cut piece.  
 — File > Export Shapes: Writes multiple SVG’s, one SVG for each individual shape on the canvas. This option is useful if you want to laser cut each shape individually and then assemble them all together after completed. So long as you plan with the max dimensions of your laser cutter in mind, then you can precisely fill a wall of unlimited scale.
 
-
-## Post-Production
+### Post-Production
 — If you need to alter the exported SVG or combine multiple SVG’s, [Inkscape](https://inkscape.org/) is free and highly recommended.
 
 
