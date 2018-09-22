@@ -1,5 +1,5 @@
 # Vector Recursion Workbench
-This is a tool for laying out and generating recursively nested polygons that can be exported as an SVG. Designed for laser cutting in mind.
+This is a tool for laying out and generating recursively nested polygons that can be exported as an SVG. Designed with laser cutting in mind.
 
 Programmed by [Nathan Williams](https://github.com/nathanlws) and designed by Jason Fletcher.
 
