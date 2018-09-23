@@ -14,7 +14,7 @@ This software is no longer being maintained and issues will not be fixed. But yo
 
 
 ## Dependencies
-Python 2.7.8  
+Python 2.7.9  
 wxPython 3.0  
 PyOpenGL 3.1.1a1  
 
