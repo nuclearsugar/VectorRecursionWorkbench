@@ -69,7 +69,7 @@ This software was programmed by [Nathan Williams](https://github.com/nathanlws) 
 
 I was first introduced to this technique through drawing by hand. Over the years I experimented with different approaches and started using an exacto blade to cutout the patterns into paper. I loved the resulting artworks but the effort required was enormous and difficult on my hands. So for many years I dreamed of creating a software which would automate the process and make laser cutting possible. While studying in college, Alex Horn helped me to create an early version of the idea first in Pure Data and then Adobe Flash. Then many years later I met Nathan Williams and randomly shared my idea over a beer and a collaboration bloomed. This software is the result. Check out the Archive folder to see some early hand drawings of this software and its evolution.
 
-I've long wanted to laser cut these patterns into wood and make giant latticed windows or pieces which precisely fill up an entire wall. Due to available free time, workspace contraints, and spare money, I haven't yet explored this dream. Someday I will but in the meantime why not open-source it? I would love to see your creations, please share photos with me. Cheers!
+I've long wanted to laser cut these patterns into wood and make giant latticed windows or pieces which precisely fill up an entire wall. Due to available free time, workspace constraints, and spare money, I haven't yet explored this dream. Someday I will but in the meantime why not open-source it? I would love to see your creations, please share photos with me. Cheers!
 
 ![History1](Examples/handcut_photo_original.jpg)
 *Three sheets of red paper which have been hand cut to create a lattice art piece*
