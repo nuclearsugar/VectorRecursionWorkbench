@@ -9,6 +9,10 @@ This is a tool for laying out and generating recursively nested polygons that ca
 *Screenshot: Previewing the guide lines and recursion concurrently*
 
 
+## Standalone App
+If you just want to instantly start using this software and don't want to deal with setting up Python, then there is an [standalone app](https://github.com/nuclearsugar/VectorRecursionWorkbench/releases) available for both Mac and Windows.
+
+
 ## Archived
 This software is no longer being maintained and issues will not be fixed. But you're welcome to fork this project.
 
