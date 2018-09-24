@@ -17,7 +17,7 @@ This is a tool for laying out recursively nested polygons that can be exported a
 ### Standalone App
 To play with this software without any fuss, check out the [standalone app](https://github.com/nuclearsugar/VectorRecursionWorkbench/releases) available for Mac & Windows.
 
-### Frozen
+### Development Frozen
 This software is no longer being maintained and issues will not be fixed. But you're welcome to fork this project.
 
 ### Dependencies
@@ -91,7 +91,7 @@ Copyright (c) 2014-2016 Nathan Williams, Jason Fletcher
 It is free software and may be redistributed under the terms specified in the LICENSE file.
 <br><br>
 
-## Example Renders (Rasterized)
+## Example Renders (rasterized)
 ![Gallery1](Examples/GoldenRatio_001_rasterized.jpg)
 
 ![Gallery2](Examples/GoldenRatio_002_rasterized.jpg)
