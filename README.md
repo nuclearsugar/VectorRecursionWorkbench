@@ -12,25 +12,26 @@
 
 ![Screenshot2](Archive/Vector-Recursion-Workbench_screenshot2.JPG)
 *Screenshot: Previewing the guide lines and recursion concurrently*
-
+<br><br>
 
 ## Standalone App
 To play with this software without any fuss, check out the [standalone app](https://github.com/nuclearsugar/VectorRecursionWorkbench/releases) available for Mac & Windows.
-
+<br><br>
 
 ## Archived
 This software is no longer being maintained and issues will not be fixed. But you're welcome to fork this project.
-
+<br><br>
 
 ## Dependencies
 Python 2.7.9  
 wxPython 3.0.1.1  
 PyOpenGL 3.1.0  
-
+<br><br>
 
 ## Usage
 Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:  
 ```python VRW-gui.py```
+<br><br>
 
 -----
 
@@ -88,13 +89,13 @@ I've long wanted to laser cut these patterns into wood and make giant latticed w
 
 ![History3](Examples/handcut_mimic_001d_rasterized.jpg)
 *Then by tweaking the shape Footer, Buffer, & Offset attributes, the piece can be optimized for laser cutting*
-
+<br><br>
 
 ## License
 The MIT License (MIT)  
 Copyright (c) 2014-2016 Nathan Williams, Jason Fletcher  
 It is free software and may be redistributed under the terms specified in the LICENSE file.
-
+<br><br>
 
 ## Example Renders (Rasterized)
 ![Gallery1](Examples/GoldenRatio_001_rasterized.jpg)
