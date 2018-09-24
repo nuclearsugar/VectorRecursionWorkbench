@@ -2,10 +2,10 @@
 ***This is a tool for laying out recursively nested polygons that can be exported as an SVG.***  
 ***Designed with laser cutting in mind.***
 
-
+<pre>
    .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-. 
  .'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `.
-
+</pre>
 
 ![Screenshot1](Archive/Vector-Recursion-Workbench_screenshot1.JPG)
 *Screenshot: Previewing the guide lines*
