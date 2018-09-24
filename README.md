@@ -17,7 +17,7 @@
 ### Standalone App
 To play with this software without any fuss, check out the [standalone app](https://github.com/nuclearsugar/VectorRecursionWorkbench/releases) available for Mac & Windows.
 
-### Archived
+### Frozen
 This software is no longer being maintained and issues will not be fixed. But you're welcome to fork this project.
 
 ### Dependencies
