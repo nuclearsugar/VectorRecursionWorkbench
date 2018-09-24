@@ -3,6 +3,10 @@
 ***Designed with laser cutting in mind.***
 
 
+   .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-. 
+ .'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `.
+
+
 ![Screenshot1](Archive/Vector-Recursion-Workbench_screenshot1.JPG)
 *Screenshot: Previewing the guide lines*
 
