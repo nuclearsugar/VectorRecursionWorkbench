@@ -61,7 +61,7 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 ### Saving & Exporting
 - **File > Save as**: Writes an JSON file which can be opened later and edited.  
 - **File > Export**: Writes an SVG of the whole canvas. This is the easiest approach for when you’re doing a single laser cut piece.  
-- **File > Export Shapes**: Writes multiple SVG’s, one SVG for each individual shape on the canvas. This option is useful if you want to laser cut each shape individually and then assemble them all together after completed. So long as you plan with the max dimensions of your laser cutter in mind, then you can precisely fill a wall of unlimited scale.
+- **File > Export Shapes**: Exports in a modular fashion by writing multiple SVG’s. One SVG is exported for each shape # on the canvas. This option is useful if you want to laser cut each shape individually and then assemble them all together after completed. So long as you plan with the max dimensions of your laser cutter in mind, then you can fill a wall of unlimited size.
 
 ### Post-Production
 - If you need to alter the exported SVG or combine multiple SVG’s, [Inkscape](https://inkscape.org/) is free and highly recommended.
