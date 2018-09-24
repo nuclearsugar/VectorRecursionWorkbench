@@ -35,7 +35,6 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 
 -----
 
-<br><br>
 ## Documentation
 ### Preview Window
 - **Draw Guide Line**: Allows you to draw a guide line onto the canvas. (hotkey is ‘d’.) To cancel drawing a guide line hit ‘ESC’. If you need to slice a specific shape, then first click to select that shape and then draw the guide line within it.  
