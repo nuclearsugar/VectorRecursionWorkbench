@@ -71,7 +71,7 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 
 ### Post-Production
 - If you need to alter the exported SVG or combine multiple SVG’s, [Inkscape](https://inkscape.org/) is free and highly recommended.
-<br><br><br>
+<br><br>
 
 
 ## History
