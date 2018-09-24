@@ -17,23 +17,18 @@
 ### Standalone App
 To play with this software without any fuss, check out the [standalone app](https://github.com/nuclearsugar/VectorRecursionWorkbench/releases) available for Mac & Windows.
 
-
 ### Archived
 This software is no longer being maintained and issues will not be fixed. But you're welcome to fork this project.
-
 
 ### Dependencies
 Python 2.7.9  
 wxPython 3.0.1.1  
 PyOpenGL 3.1.0  
 
-
 ### Usage
 Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:  
 ```python VRW-gui.py```
 <br><br>
-
------
 
 ## Documentation
 ### Preview Window
@@ -72,7 +67,6 @@ Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:
 ### Post-Production
 - If you need to alter the exported SVG or combine multiple SVG’s, [Inkscape](https://inkscape.org/) is free and highly recommended.
 <br><br>
-
 
 ## History
 This software was programmed by [Nathan Williams](https://github.com/nathanlws) and designed by [Jason Fletcher](http://www.jasonfletcher.info/).
