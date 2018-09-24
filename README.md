@@ -8,10 +8,10 @@ This is a tool for laying out recursively nested polygons that can be exported a
 
 ## Screenshots
 ![Screenshot1](Archive/Vector-Recursion-Workbench_screenshot1.JPG)
-*Screenshot: Previewing the guide lines*
+*Screenshot: previewing the guide lines*
 
 ![Screenshot2](Archive/Vector-Recursion-Workbench_screenshot2.JPG)
-*Screenshot: Previewing the guide lines and recursion concurrently*
+*Screenshot: previewing the guide lines and recursion concurrently*
 <br><br>
 
 ### Standalone App
