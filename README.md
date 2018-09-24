@@ -10,7 +10,7 @@ This is a tool for laying out and generating recursively nested polygons that ca
 
 
 ## Standalone App
-To play with the software without any fuss, there is an [standalone app](https://github.com/nuclearsugar/VectorRecursionWorkbench/releases) available for both Mac and Windows.
+To play with this software without any fuss, check out the [standalone apps](https://github.com/nuclearsugar/VectorRecursionWorkbench/releases) available for Mac & Windows.
 
 
 ## Archived
