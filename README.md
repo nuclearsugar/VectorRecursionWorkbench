@@ -6,7 +6,7 @@ This is a tool for laying out recursively nested polygons that can be exported a
 ![History3](Examples/handcut_mimic_001d_rasterized.jpg)
 <br><br>
 
-## Screenshots
+## App Screenshots
 ![Screenshot1](Archive/Vector-Recursion-Workbench_screenshot1.JPG)
 *Screenshot: previewing the guide lines*
 
