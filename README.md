@@ -3,7 +3,10 @@
 ***Designed with laser cutting in mind.***
 <br><br>
 
+![History3](Examples/handcut_mimic_001d_rasterized.jpg)
 
+
+## Screenshots
 ![Screenshot1](Archive/Vector-Recursion-Workbench_screenshot1.JPG)
 *Screenshot: Previewing the guide lines*
 
