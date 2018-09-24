@@ -26,7 +26,7 @@ wxPython 3.0.1.1
 PyOpenGL 3.1.0  
 
 ### Usage
-Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:  
+Run this script in a CMD shell to initiate the GUI:  
 ```python VRW-gui.py```
 <br><br>
 
