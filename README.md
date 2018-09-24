@@ -1,10 +1,10 @@
 # Vector Recursion Workbench
 ***This is a tool for laying out recursively nested polygons that can be exported as an SVG.***  
 ***Designed with laser cutting in mind.***
-<br><br>
+<br>
 
 ![History3](Examples/handcut_mimic_001d_rasterized.jpg)
-
+<br><br>
 
 ## Screenshots
 ![Screenshot1](Archive/Vector-Recursion-Workbench_screenshot1.JPG)
@@ -14,24 +14,23 @@
 *Screenshot: Previewing the guide lines and recursion concurrently*
 <br><br>
 
-## Standalone App
+### Standalone App
 To play with this software without any fuss, check out the [standalone app](https://github.com/nuclearsugar/VectorRecursionWorkbench/releases) available for Mac & Windows.
-<br><br>
 
-## Archived
+
+### Archived
 This software is no longer being maintained and issues will not be fixed. But you're welcome to fork this project.
-<br><br>
 
-## Dependencies
+
+### Dependencies
 Python 2.7.9  
 wxPython 3.0.1.1  
 PyOpenGL 3.1.0  
-<br><br>
 
-## Usage
+
+### Usage
 Run this script in a CMD shell to initiate the Vector Recursion Workbench GUI:  
 ```python VRW-gui.py```
-<br><br>
 
 -----
 
