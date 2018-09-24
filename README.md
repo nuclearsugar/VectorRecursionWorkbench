@@ -57,7 +57,7 @@ Run this script in a CMD shell to initiate the GUI:
 - **Step**: Increases or decreases the spacing of the shape recursion for the whole layout. Every shape is affected equally, without resetting the individual Shape Step setting.  
 - **Colors**: Determine what two colors are used to alternate within the recursion.  
 - **Canvas Width/Height**: Set in pixels of your monitor. Just a way to determine the aspect ratio since the SVG exports are vector in nature.  
-- **Load Background Image**: Allows you to load a background image within the preview window. This background image does not export, it’s only used as a helper for you to layout Guide Lines. It can be helpful for tracing complex patterns you want to draw. Within the Examples folder check out the ‘FaceSilhouette_001’ and ‘Hands_001’ examples.
+- **Load Background Image**: Allows you to load a background image within the preview window. This background image does not affect the recursion or export, it can only be used as a helper when laying out guide lines. It can be useful for tracing complex patterns you want to draw. To see an example, check of the ‘FaceSilhouette_001’ or ‘Hands_001’ within the Examples folder.
 
 ### Saving & Exporting
 - **File > Save as**: Writes an JSON file which can be opened later and edited.  
