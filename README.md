@@ -92,6 +92,7 @@ It is free software and may be redistributed under the terms specified in the LI
 <br><br>
 
 ## Example Renders (rasterized)
+*SVG versions of these renders are available within the Examples folder.*
 ![Gallery1](Examples/GoldenRatio_001_rasterized.jpg)
 
 ![Gallery2](Examples/GoldenRatio_002_rasterized.jpg)
