@@ -76,7 +76,7 @@ I was first introduced to this technique through drawing by hand. Over the years
 I've long wanted to laser cut these patterns into wood and make giant latticed windows or pieces which precisely fill up an entire wall. Due to available free time, workspace constraints, and spare money, I haven't yet explored this dream. Someday I will but in the meantime why not open-source it? I would love to see your creations, please share photos with me. Cheers!
 
 ![History1](Examples/handcut_photo_original.jpg)
-*Three sheets of red paper which have been hand cut to create a lattice art piece*
+*Red paper which have been hand cut to create a lattice art piece (9 x 2 feet)*
 
 ![History2](Examples/handcut_mimic_001_rasterized.jpg)
 *A similar recursion pattern can been mimicked using this software*
